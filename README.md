@@ -1,7 +1,7 @@
-## QR-Generator
+# QR-Generator
 A Python-based GUI tool to generate custom QR codes from URLs. It allows choosing eye patterns (square, circle, dotted, none) and body styles (default, dotted, lines). Users can also select custom colors for the QR body and background using a color palette. The generated QR is saved as fancy_qr.png automatically.
 
-# 🎨 Fancy QR Code Generator (Python GUI Tool)
+## 🎨 Fancy QR Code Generator (Python GUI Tool)
 
 A simple **Python-based GUI tool** to generate **custom QR codes** from any URL.  
 It provides stylish customization options like **eye patterns**, **body styles**, and **color themes** using a **Tkinter interface**.
@@ -44,7 +44,7 @@ Run the tool
 python qr_gen.py
 ```
 
-# How to use
+## How to use
 
 - Enter the URL or text you want to encode
 - Select Eye Pattern and Body Pattern
